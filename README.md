@@ -12,31 +12,31 @@
 
 ### 🚀 What I'm building
 
-**[S2FreeTools](https://s2freetools.com)** — a free collection of browser-based utilities. No signup, no installation, no paywall.
+## [S2FreeTools](https://s2freetools.com)
 
-| Category | What's inside |
+**243+ free online tools.** No installation, no sign up, 100% secure.
+
+| Category | Tools |
 |---|---|
-| 📄 PDF Tools | Merge, split, compress, convert |
-| 🖼️ Image Tools | Compress, resize, crop, format convert |
-| ✍️ Text Tools | Word count, case convert, compare |
-| 🧮 Calculators | Everyday and financial calculators |
-| 💻 Developer Tools | JSON, Base64, hash, URL utilities |
-| 🤖 AI Utilities | AI-assisted helpers |
+| 🔍 SEO Tools | 61 |
+| 🧮 Math Tools | 58 |
+| 🔐 Security Tools | 38 |
+| 🖼️ Image Tools | 19 |
+| 💻 Developer Tools | 12 |
+| ✍️ Text Tools | 5 |
+| 🌐 Network Tools | 5 |
+| 📄 PDF Tools | 2 |
+| 🎵 Audio · 📏 Converters · 🤖 AI · 🎉 Fun | more |
+
+Popular: AI Image Generator · AI Photo Restoration · Password Generator · Meta Tag Generator · PDF Compressor · Word Counter · Broken Link Checker
 
 👉 **[Try it free →](https://s2freetools.com)**
 
 ---
 
-### 🧩 My Projects
+### 🧩 Other projects
 
-| Project | What it does |
-|---|---|
-| **S2FreeTools** | Free online tools — PDF, images, text, calculators, developer utilities |
-| **S2Coder** | _description pending_ |
-| **S2Panel** | _description pending_ |
-| **S2Cloud** | _description pending_ |
-| **MyBharatCRM** | _description pending_ |
-| **Wakit** | _description pending_ |
+**S2Coder** · **S2Panel** · **S2Cloud** · **MyBharatCRM** · **Wakit**
 
 ---
 
@@ -70,7 +70,7 @@
 ### 📫 Connect
 
 - 🌐 Website: [s2freetools.com](https://s2freetools.com)
-- 💬 Questions or suggestions? Open an issue on any of my repos.
+- 💬 Questions or suggestions? [Open an issue](https://github.com/Saurabhsin415/s2freetools/issues)
 
 ---
 
